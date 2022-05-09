@@ -36,7 +36,7 @@ I'd always be willing to lend a hand to anyone that asks. This included both pro
 During team projects, I excelled during the planning stages. I have strong written and verbal skills. I thoroughly enjoyed organising the teams schedule for the day. This involved setting up daily project retros and kick offs, minute taking information from meetings on Figma. Writing up blogs and assigning / progressing user stories on the team Trello board. I believe a lot of this stems from my previous work experience. Often in Social services, I would be responsible for working together with multi-agency disciplines to create personal, holistic reports for my clients, usually under string time constraints.
 Another recent example of showing leadership was during the Covid-19 pandemic in May 2020. I was part of an emergency (Shielding team) brought together in-light of the Covid-19 pandemic which was in collaboration with the NHS. The team was made up of civil servants across the council most of which had never met one another. It was my responsibility to manage this team, encase of any social care or legal matters, for a number of weeks with the ultimate aim of providing urgent care packages to those most vulnerable / unable to leave their homes.
 
-**#### Quick Learner**
+### Quick Learner
 I consider myself to be a quick learner, I felt very proud after learning 3 languages over a 12 week period at Makers (Ruby, JavaScript & Python).
 
 ## Education
