@@ -1,5 +1,5 @@
 # Elliott Zaki
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [LINKEDIN](#linkedIn) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#Hobbies &_Interests) | [LinkedIn](#linkedIn) |
 
 console.log("Hello Employers!");
 
@@ -64,5 +64,11 @@ For just over twelve months, I was employed as a Minute taker under the Children
 ### Technical Administrator, Highways & Maintenance, Green Spaces, Waste - Hillingdon, United Kingdom - Mar 2017 - Apr 2018
 Employed full-time as a technical administrator over the course of fourteen months at the London Borough of Hillingdon. During this period i had supported a variety of different services such as the Highway maintenance, Green spaces and Waste management departments. Whilst employed I was responsible for compiling statistics with the aim to automatise work processes, managing inventory, invoicing, auditing and general adhoc administrative tasks.
 
+## Hobbies_&_Interests
+Avid board / video gamer and hugely passionate around film. 
+Enjoy going for long hikes, horticulture photography and kayaking down waterways ( canals or rivers ).  
+I throughly enjoy listening and creating music. Self-taught basic keyboard and music production using various software. 
+Massive history buff and very inquisitive; any excuse for me to pick up a non-fiction book or video and im there. 
+
 ## LinkedIn
-Please feel free to visit my LinkedIn page at <a href="https://www.linkedin.com/in/elliott-zaki/">LinkedIn Profile</a>. for a more indepth breakdown of my interests, education and previous work experience.
+Please feel free to visit my <a href="https://www.linkedin.com/in/elliott-zaki/">LinkedIn Profile</a> for a more indepth breakdown of my interests, education and previous work experience.
