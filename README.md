@@ -66,9 +66,9 @@ Employed full-time as a technical administrator over the course of fourteen mont
 
 ## Hobbies_&_Interests
 Avid board / video gamer and hugely passionate around film.<br>
-Enjoy going for long hikes, horticulture photography and certain watersports such as kayaking down waterways ( canals & rivers ).<br>  
+Enjoy going for long hikes, horticulture photography and certain watersports such as kayaking down waterways ( canals & rivers ).  
 I throughly enjoy listening and creating music. Self-taught basic keyboard and music production using various software.<br>
-Massive history buff aswell as a big Sci-Fi fan, super inquisitive; any excuse to pick up a non-fiction book or video and I'm there!<br>
+Massive history buff aswell as a big Sci-Fi fan, super inquisitive; any excuse to pick up a non-fiction book or video and I'm there!
 
 ## LinkedIn
 Please feel free to visit my <a href="https://www.linkedin.com/in/elliott-zaki/">LinkedIn Profile</a> for a more indepth breakdown of my interests, education and previous work experience.
