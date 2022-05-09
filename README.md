@@ -19,7 +19,7 @@ As part of good learning, we were encouraged to complete regular constructive co
 |[Five Aces](https://github.com/ElliottZaki/Weeks-8-and-9-Acebook-Five-Aces)        |  A webapp FaceBook clone, that can interact with multiple users. Second Team project.                | Ruby on Rails,  Heroku, PostgreSQL            | Rspec      |
 |[Im-a-coder-get-me-out-of-here](https://github.com/ElliottZaki/Im-a-coder-get-me-out-of-here)        |  A multiple choice adventure game with software dev orientated questions. Third Team project.                | Python,  pygame, Tiled, Heroku         | Pygame unit test suite       |
 
-Please feel free to check out all my work so far on my Github <a href="https://github.com/ElliottZaki">GitHub Profile</a>
+Please feel free to check out all my work so far on my <a href="https://github.com/ElliottZaki">GitHub Profile</a>
 
 ## Skills
 ### Time Management
