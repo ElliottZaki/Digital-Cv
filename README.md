@@ -1,5 +1,5 @@
 # Elliott Zaki
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#Hobbies &_Interests) | [LinkedIn](#linkedIn) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#Hobbies_&_Interests) | [LinkedIn](#linkedIn) |
 
 console.log("Hello Employers!");
 
