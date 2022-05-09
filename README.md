@@ -1,5 +1,5 @@
 # Elliott Zaki
-[SKILLS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [SKILLS](#linkedIn) |
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [LINKEDIN](#linkedIn) |
 
 console.log("Hello Employers!");
 
@@ -19,7 +19,7 @@ As part of good learning, we were encouraged to complete regular constructive co
 |[Five Aces](https://github.com/ElliottZaki/Weeks-8-and-9-Acebook-Five-Aces)        |  A webapp FaceBook clone, that can interact with multiple users. Second Team project.                | Ruby on Rails,  Heroku, PostgreSQL            | Rspec      |
 |[Im-a-coder-get-me-out-of-here](https://github.com/ElliottZaki/Im-a-coder-get-me-out-of-here)        |  A multiple choice adventure game with software dev orientated questions. Third Team project.                | Python,  pygame, Tiled, Heroku         | Pygame unit test suite       |
 
-Please feel free to check out all my work so far on my Github  <href="https://github.com/ElliottZaki">
+Please feel free to check out all my work so far on my Github <a href="https://github.com/ElliottZaki"></a>.
 
 ## Skills
 ### Time Management
@@ -65,9 +65,4 @@ For just over twelve months, I was employed as a Minute taker under the Children
 Employed full-time as a technical administrator over the course of fourteen months at the London Borough of Hillingdon. During this period i had supported a variety of different services such as the Highway maintenance, Green spaces and Waste management departments. Whilst employed I was responsible for compiling statistics with the aim to automatise work processes, managing inventory, invoicing, auditing and general adhoc administrative tasks.
 
 ## LinkedIn
-Please feel free to visit my LinkedIn page at <href="https://www.linkedin.com/in/elliott-zaki/"> for a more indepth breakdown of my interests, education and previous work experience.
-
-
-
-
-
+Please feel free to visit my LinkedIn page at <a href="https://www.linkedin.com/in/elliott-zaki/"></a>. for a more indepth breakdown of my interests, education and previous work experience.
